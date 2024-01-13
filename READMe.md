@@ -4,6 +4,8 @@ This application runs the health checks that are provided in the form of a yaml 
 
 ## Setup
 
+This project expects you to have python installed on your system.
+
 Clone the project from the main branch.
 
 ## Pre-requisites
